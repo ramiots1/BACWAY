@@ -447,7 +447,7 @@ li{
         }
     }
 }
-}
+
 .arabiccontainer{
     background-color: #00223a54;
     border-radius: 16px;
@@ -521,6 +521,7 @@ li{
             border: solid 0.01px ;
         }
     }
+}
 }
 .folders {
     background-color: #000204b6;
